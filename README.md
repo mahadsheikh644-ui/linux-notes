@@ -19,6 +19,7 @@ Personal learning journal + lessons + labs. Goal: professional Linux Administrat
 | # | Topic | Date | File |
 |---|-------|------|------|
 | 01 | Permissions mastery (special bits, umask, ACLs) | 2026-08-18 | 00-foundation/01-permissions.md |
+| 02 | Filesystems (partitions, ext4/xfs, mount, fstab, swap) | 2026-08-20 | 00-foundation/02-filesystems.md |
 | 04 | kill -15 vs -9 (signals) | 2026-08-18 | 00-foundation/04-signals.md |
 
 ## Rules for me
