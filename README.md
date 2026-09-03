@@ -22,6 +22,7 @@ Personal learning journal + lessons + labs. Goal: professional Linux Administrat
 | 02 | Filesystems (partitions, ext4/xfs, mount, fstab, swap) | 2026-08-20 | 00-foundation/02-filesystems.md |
 | 03 | LVM (PV/VG/LV, resize, snapshots) | 2026-08-23 | 01-storage/01-lvm.md |
 | 04 | kill -15 vs -9 (signals) | 2026-08-18 | 00-foundation/04-signals.md |
+| 07 | systemd, cron, logs | 2026-09-04 | 02-services/01-systemd.md |
 
 ## Rules for me
 1. Every session = lesson file + lab file + cheatsheet update.
